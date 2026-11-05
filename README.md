@@ -3,25 +3,25 @@ Exact Day: Day 002
 
 What Was Completed:
 
-JDK, JRE, සහ JVM අතර වෙනස්කම් සහ ඒවායේ කාර්යභාරය සාකච්ඡා කළා.
+Discussed the differences between JDK, JRE, and JVM and their roles.
 
-Java source code එකක් (.java) bytecode (.class) බවට compile වන ආකාරය සහ පසුව JVM එක හරහා machine code එකට හැරී run වන ආකාරය ඉගෙන ගත්තා.
+Learned how a Java source code (.java) is compiled into bytecode (.class) and then run as machine code through the JVM.
 
-java -version මඟින් Java 22.0.2 පරිසරය නිවැරදිව ස්ථාපනය වී ඇති බව තහවුරු කළා.
+Confirmed that Java 22.0.2 environment is correctly installed via java -version.
 
-Terminal එක භාවිතයෙන් අතින්ම TestApp.java file එකක් compile කර run කර සාර්ථක ප්‍රතිඵලයක් ලබා ගත්තා.
+Manually compiled and ran a TestApp.java file using the Terminal and got a successful result.
 
 Evidence of What the User Can Do:
 
-JDK, JRE සහ JVM වල කාර්යභාරයන් පැහැදිලි කළ හැක.
+Can explain the roles of JDK, JRE, and JVM.
 
-Command Line / Terminal එක හරහා Java source code එකක් compile කිරීමට (javac) සහ ක්‍රියාත්මක කිරීමට (java) හැක.
+Can compile (javac) and execute (java) a Java source code via Command Line / Terminal.
 
 Mistakes / Weak Areas:
 
-කිසිවක් නැත (මූලික සංකල්ප සහ ප්‍රායෝගික පියවර ඉතා හොඳින් අවබෝධ කරගෙන ඇත).
+None (basic concepts and practical steps are understood very well).
 
-Unfinished Work: කිසිවක් නැත (Day 002 ඉලක්ක සියල්ල සම්පූර්ණයි).
+Unfinished Work: None (all Day 002 objectives are complete).
 
 Files / Commands:
 
@@ -31,4 +31,4 @@ Class Name: TestApp
 
 Commands: javac TestApp.java, java TestApp
 
-Exact Next Step: Day 003 හිදී Variables, Data Types, සහ Conditional Statements (if-else) සාකච්ඡා කිරීම.
+Exact Next Step: On Day 003, discuss Variables, Data Types, and Conditional Statements (if-else).
